@@ -1,0 +1,15 @@
+{
+  "name": "epurchasejuly17",
+  "version": "1.0.0",
+  "description": "This is a application to display quotes randomly.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "suresh_edureka",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
